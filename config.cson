@@ -1,0 +1,24 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "image-view"
+    ]
+    projectHome: "C:\\Users\\brad\\Projects"
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "one-dark-syntax"
+    ]
+  editor:
+    fontSize: 16
+    scrollPastEnd: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "b172af4d-448e-4c8e-95c0-5c20f00cc9f8"
+  "line-ending-selector":
+    defaultLineEnding: "LF"
+  welcome:
+    showOnStartup: false

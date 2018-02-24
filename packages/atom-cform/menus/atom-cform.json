@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Activate AWS CloudFormation snippets",
+        "command": "atom-cform:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "AWS CloudFormation",
+          "submenu": [
+            {
+              "label": "Toggle scaffolding",
+              "command": "atom-cform:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
